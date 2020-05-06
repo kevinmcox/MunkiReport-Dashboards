@@ -1,0 +1,44 @@
+# Security focused MunkiReport Dashboard
+
+display_name: Security
+hotkey: s
+
+0:
+    client: {  }
+    messages: {  }
+1:
+    detectx: {  }
+    localadmin: {  }
+    app1: {appName: "zoom.us", widget: "app"}
+2:
+    gatekeeper: {  }
+    sip: {  }
+    filevault: {  }
+3:
+    firmwarepw: {  }
+    findmymac:  {  }
+    firewall_state:  {  }
+4:
+    skel_state:  {  }
+    ssh_state:  {  }
+    root_user:  {  }
+5:
+    mdm_status:  {  }
+    user_approved_status:  {  }  
+    mdm_enrolled_via_dep:  {  }
+6:
+    softwareupdate_automaticcheckenabled:  {  }  
+    softwareupdate_criticalupdateinstall:  {  }
+    softwareupdate_configdatainstall:  {  }
+7:
+    softwareupdate_auto_update:  {  }
+    softwareupdate_automaticdownload:  {  }
+    softwareupdate_auto_update_restart_required:  {  }
+
+8:
+    softwareupdate_gatekeeper_disk_version:  {  }
+    softwareupdate_gatekeeper_version:  {  }
+9:
+    softwareupdate_kext_exclude_version:  {  }
+    softwareupdate_mrt_version:  {  }
+    softwareupdate_xprotect_version:  {  }

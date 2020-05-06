@@ -1,0 +1,31 @@
+# Update focused MunkiReport Dashboard
+
+display_name: Updates
+hotkey: u
+
+0:
+    client: {  }
+    messages: {  }
+1:
+    pending: {  }
+    pending_apple: {  }
+    pending_munki: {  }
+2:
+    munki: {  }
+    munki_errors:  {  }
+    munki_warnings:  {  }
+3:
+    uptime: {  }
+    get_failing:  {  }
+    pending_removals_munki:  {  }
+4:
+    os: {  }
+    osbuild:  {  }
+5:
+    softwareupdate_automaticcheckenabled:  {  }
+    softwareupdate_automaticdownload:  {  }
+    softwareupdate_auto_update:  {  }
+6:
+    softwareupdate_auto_update_restart_required:  {  }
+    softwareupdate_configdatainstall:  {  }
+    softwareupdate_criticalupdateinstall:  {  }
