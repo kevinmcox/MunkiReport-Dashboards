@@ -30,7 +30,7 @@ hotkey: d
 6:
     network_location: {  }
     munki_versions: {  }
-    localadmin: {  }
+    users_local_admins: {  }
     duplicated_computernames: {  }
     modified_computernames: {  }
     bound_to_ds: {  }
