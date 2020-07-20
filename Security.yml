@@ -8,7 +8,7 @@ hotkey: s
     messages: {  }
 1:
     detectx: {  }
-    localadmin: {  }
+    users_local_admins: {  }
     app1: {appName: "zoom.us", widget: "app"}
 2:
     gatekeeper: {  }
