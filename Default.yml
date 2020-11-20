@@ -17,7 +17,7 @@ hotkey: d
 3:
     sip: {  }
     gatekeeper: {  }
-    filevault: {  }
+    filevault_status: {  }
 4:
     warranty: {  }
     new_clients: {  }
